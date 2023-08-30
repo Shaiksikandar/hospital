@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hospital/static/css/main.e6c13ad2.css",
+    "main.js": "/hospital/static/js/main.3c08cbdd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/hospital/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/hospital/index.html",
+    "main.e6c13ad2.css.map": "/hospital/static/css/main.e6c13ad2.css.map",
+    "main.3c08cbdd.js.map": "/hospital/static/js/main.3c08cbdd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/hospital/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3c08cbdd.js"
+  ]
+}
